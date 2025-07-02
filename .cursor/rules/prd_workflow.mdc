@@ -16,10 +16,11 @@ alwaysApply: true
   - **Single Source of Truth**: The PRD serves as the definitive reference for project scope, features, and technical approach
 
 - **PRD Template Structure**
+  - PRD files should be store at docs/project-name.prd.txt
   - Always use the standardized template format shown below
   - Maintain strict separation between `<context>` and `<PRD>` sections
   - Follow the exact section order and formatting specified
-
+  
 - **Complete PRD Template**
   ```
   <context>
